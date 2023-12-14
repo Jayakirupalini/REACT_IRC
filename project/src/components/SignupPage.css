@@ -1,0 +1,41 @@
+body {
+    background-image: url("C:\Users\JediS\demo\src\assests\images\pink1.jpg");
+}
+
+.signupbox {
+    width: 80%;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #d24b8c;
+    border-radius: 8px;
+    box-shadow: 0 0 10px white;
+    margin-top: 100px;
+  }
+  
+
+
+  .login-box2 {
+    background-color: #fbbdd9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px
+  }
+
+  form {
+    width: 100%;
+  }
+  
+
+  
+  label {
+    display: block;
+  }
+  
+  button {
+    background-color: #0c58a0;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
