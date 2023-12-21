@@ -1,0 +1,26 @@
+body{
+   background-color:white;
+   height: 150px;
+  }
+  
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .contact-card {
+    background-color: rgb(226, 209, 191);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .contact-card h1 {
+    color: #333;
+  }
+  
+  .contact-card p {
+    color: #666;
+  }
+  
